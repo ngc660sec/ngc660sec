@@ -13,11 +13,16 @@
 
 # About MyWork
 
-<img align='right' src="./team.png" width="300">
-
 现在我在深圳极环信息安全技术有限公司 - 旗下**NGC660安全实验室**从事红队检测，渗透测试工作
 
 深圳极环信息安全技术有限公司官网：[https://jiuansec.com/](https://jiuansec.com/)
+
+💬 以下是**团队LOGO**以及**团队公众号**
+
+<div style="display: flex;">
+  <img src="./team2.png" alt="Image 1" style="width: 500px; height: auto; margin: 5px;">
+  <img src="./公众号.jpg" alt="Image 2" style="width: 550px; height: auto; margin: 5px;">
+</div>
 
 # About MyTeam
 
