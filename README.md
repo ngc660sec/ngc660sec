@@ -20,8 +20,8 @@
 💬 以下是**团队LOGO**以及**团队公众号**
 
 <div style="display: flex;">
-  <img src="./team2.png" alt="Image 1" style="width: 500px; height: auto; margin: 5px;">
-  <img src="./公众号.jpg" alt="Image 2" style="width: 550px; height: auto; margin: 5px;">
+  <img src="./team2.png" alt="Image 1" style="width: 480px; height: auto; margin: 5px;">
+  <img src="./公众号.jpg" alt="Image 2" style="width: 480px; height: auto; margin: 5px;">
 </div>
 
 # About MyTeam
